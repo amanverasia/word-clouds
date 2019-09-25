@@ -25,7 +25,7 @@ for i in range(1000000):
 
 
   try:
-    person1.append(data[i].split(name_of_person1)[1].split('\n')[0])
+    person1.append(data[i].split(name_of_person1.lower())[1].split('\n')[0])
     
   except:
     pass
@@ -38,7 +38,7 @@ for i in range(1000000):
 
 
   try:
-    person2.append(data[i].split(name_of_person2)[1].split('\n')[0])
+    person2.append(data[i].split(name_of_person2.lower())[1].split('\n')[0])
     
   except:
     pass
