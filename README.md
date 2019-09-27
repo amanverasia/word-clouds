@@ -18,7 +18,7 @@ Open the WhatsApp chat which you want to use this Script on, Export the chat wit
 # Running the Script
 ```sh
 $ cd word-clouds
-$ python main.py
+$ python3 main.py
 ```
 When asked for the name of person1, make sure you exactly type your name as you have it on WhatsApp and for person2, type the exact contact name you have for that chat.
 
