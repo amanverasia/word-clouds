@@ -22,4 +22,4 @@ $ python main.py
 ```
 When asked for the name of person1, make sure you exactly type your name as you have it on WhatsApp and for person2, type the exact contact name you have for that chat.
 
-### Have Fun contact me if the script shows any error or something.
+### Have Fun and contact me if the script shows any error or something.
